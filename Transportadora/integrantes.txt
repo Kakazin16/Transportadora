@@ -1,0 +1,7 @@
+INTEGRANTES DO PROJETO - CHECKPOINT 1 (C# DEVELOPMENT)
+
+- Nome: [Enzo Galhardo] | RM: [561001]
+- Nome: [Leonardo Luiz Jardim Queijo] | RM: [559842]
+- Nome: [Kauan Diogo] | RM: [560727]
+
+Link do Repositório: https://github.com/Kakazin16/Transportadora
